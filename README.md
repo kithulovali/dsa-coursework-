@@ -3,7 +3,7 @@ guys this is our tomorrow's question by force
 ```
  with aid of diagram explain the following terminologies
 ```
-- [ ]  best case senario
+- [x ]  best case senario
 - [ ]  average case senario
 - [ ]  worst case senario
 <p align="center">
