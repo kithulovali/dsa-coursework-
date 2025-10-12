@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760293787 source:c:\users\danbash\documents\arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1760288263 source:c:\users\danbash\documents\arrays\arrays.c
+	<stdio.h>
+
