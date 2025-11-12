@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1762937831 source:c:\users\danbash\documents\projects\dsa_project\vectors\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<stdlib.h>
+	"resource.h"
+	"vector.h"
+
+1762937098 c:\users\danbash\documents\projects\dsa_project\vectors\resource.h
+
+1762936713 c:\users\danbash\documents\projects\dsa_project\vectors\vector.h
+	<stddef.h>
+	<stdbool.h>
+
+1762937073 source:c:\users\danbash\documents\projects\dsa_project\vectors\vector.c
+	"vector.h"
+	<stdlib.h>
+	<string.h>
+
